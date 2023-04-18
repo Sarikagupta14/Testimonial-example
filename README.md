@@ -1,3 +1,3 @@
 # Testimonial-example
 
-Exposure- Tailwind CSS, React
+Exposure- HTML,Tailwind CSS, ReactJs
